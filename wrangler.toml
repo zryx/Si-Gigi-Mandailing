@@ -3,7 +3,3 @@ compatibility_date = "2026-09-14"
 
 [assets]
 directory = "."
-
-[[routes]]
-pattern = "sigigimandailing.my.id"
-custom_domain = true
